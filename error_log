@@ -1,0 +1,22 @@
+[04-May-2017 02:25:12 UTC] PHP Fatal error:  Call to undefined method Empleados_model::eliminar() in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Empleados.php on line 178
+[04-May-2017 20:21:04 UTC] PHP Fatal error:  Call to undefined method Empleados_model::eliminar() in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Empleados.php on line 178
+[11-May-2017 06:32:12 UTC] PHP Fatal error:  Call to a member function sess_destroy() on null in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Usuarios.php on line 207
+[11-May-2017 06:33:14 UTC] PHP Fatal error:  Call to a member function sess_destroy() on null in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Usuarios.php on line 207
+[11-May-2017 06:33:17 UTC] PHP Fatal error:  Call to a member function sess_destroy() on null in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Usuarios.php on line 207
+[11-May-2017 06:33:22 UTC] PHP Fatal error:  Call to a member function sess_destroy() on null in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Usuarios.php on line 207
+[31-May-2017 02:16:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 169
+[31-May-2017 02:17:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 169
+[31-May-2017 02:18:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 169
+[31-May-2017 02:18:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 169
+[31-May-2017 02:19:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:19:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:20:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:21:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:21:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:21:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:23:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:23:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:24:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:24:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:25:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
+[31-May-2017 02:25:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/eesscomd/eesssistem.eess.com.do/application/controllers/Pdfs.php on line 181
